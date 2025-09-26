@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there! 👋  
 
-<!--
-**juanariviano/juanariviano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![wave](https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif)  
 
-Here are some ideas to get you started:
+I'm Juan, a Computer Science student at **Binus University** in Indonesia.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m passionate about **Artificial Intelligence, Machine Learning, and Web Development**. I’ve built projects ranging from AI-powered chatbots to donation platforms and computer vision systems. I love working on impactful software that connects technology with real-world solutions.  
+
+Some of my notable projects include:  
+- 🤖 **DiagnoAI** – a chatbot that predicts heart disease using ML models (Decision Tree, KNN, SVM).  
+- 💤 **Drowsiness Detection** – a YOLOv11s-based model for real-time monitoring.  
+- 🌱 **Donation Platform** – connecting donors, volunteers, and events for environmental causes.  
+
+Outside of studies, I enjoy following new developments in science and technology. I also hit the gym, play video games, and explore creative side projects.  
+
+---
+
+### 📬 Let's Connect!  
+- [LinkedIn](#)  
+- [Medium](#)  
+- [Portfolio/Website](#) *(if available)*  
+
+---  
+
+✨ *Always learning, always building.*  
