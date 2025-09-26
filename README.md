@@ -9,7 +9,7 @@ Some of my notable projects include:
 - 💤 **Drowsiness Detection** – a YOLOv11s-based model for real-time monitoring.  
 - 🌱 **Donation Platform** – connecting donors, volunteers, and events for environmental causes.  
 
-Outside of studies, I enjoy following new developments in science and technology. I also hit the gym, play video games, and explore creative side projects.  
+Outside of studies, I enjoy following new developments in science and technology.
 
 ### Let's Connect!  
 - [LinkedIn](https://www.linkedin.com/in/juan-ariviano-chandra/)  
