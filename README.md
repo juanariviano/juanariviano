@@ -17,8 +17,7 @@ Outside of studies, I enjoy following new developments in science and technology
 
 ### 📬 Let's Connect!  
 - [LinkedIn](https://www.linkedin.com/in/juan-ariviano-chandra/)  
-- [Medium](#)  
-- [Portfolio/Website](#) *(if available)*  
+- [Portfolio/Website](https://juan-sable.vercel.app/)
 
 ---  
 
