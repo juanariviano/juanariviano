@@ -11,4 +11,9 @@ Some of my notable projects include:
 
 Outside of studies, I enjoy following new developments in science and technology.
 
-![LinkedIn](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-ariviano-chandra/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-808080.svg?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://juanariviano.vercel.app)
+
+
+
+
