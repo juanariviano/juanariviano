@@ -1,6 +1,4 @@
-# Hi there! 👋  
-
-![wave](https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif)  
+### Hi there! 👋  
 
 I'm Juan, a Computer Science student at **Binus University** in Indonesia.  
 
@@ -13,12 +11,6 @@ Some of my notable projects include:
 
 Outside of studies, I enjoy following new developments in science and technology. I also hit the gym, play video games, and explore creative side projects.  
 
----
-
-### 📬 Let's Connect!  
+### Let's Connect!  
 - [LinkedIn](https://www.linkedin.com/in/juan-ariviano-chandra/)  
 - [Portfolio/Website](https://juan-sable.vercel.app/)
-
----  
-
-✨ *Always learning, always building.*  
